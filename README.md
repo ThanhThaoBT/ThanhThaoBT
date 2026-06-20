@@ -2,7 +2,7 @@
 
 🎓 Final-year Information Technology Student at Sai Gon University  
 🌎 Interested in Geographic Information Systems (GIS), Geospatial Data Analysis, and Data Engineering  
-💻 Building projects with Python, SQL, PostGIS, and QGIS  
+💻 Building projects with Python, Jupyter Notebook, SQL, PostGIS, and QGIS  
 
 📧 Email: httthao.257@gmail.com  
 🔗 GitHub: https://github.com/ThanhThaoBT
